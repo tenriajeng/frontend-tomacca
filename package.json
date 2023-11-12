@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "antd": "^4.1.4",
     "antd-img-crop": "^3.12.0",
-    "axios": "^0.21.4",
+    "axios": "^1.6.0",
     "jwt-decode": "^3.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
